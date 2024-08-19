@@ -5,9 +5,9 @@ import random
 
 
 # Twilio configuration
-ACCOUNT_SID = 'AC1e23257093fdbdcf9142c4fe310693f0'
-AUTH_TOKEN = '0629d5990d58424da4df8f7a39d9aacf'
-TWILIO_PHONE_NUMBER = '+12564498194'
+ACCOUNT_SID = 'AC_____________________________693f0'
+AUTH_TOKEN = '0_____________________________f'
+TWILIO_PHONE_NUMBER = '_____________'
 
 # Create a Twilio client
 client = Client(ACCOUNT_SID, AUTH_TOKEN)
